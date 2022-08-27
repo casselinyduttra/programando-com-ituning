@@ -1,6 +1,6 @@
-var n = 1
+var i = 1
 
-while (n <= 9){
-    console.log(n)
-    n++
+while (i <= 9){
+    console.log(i)
+    i++
 }
